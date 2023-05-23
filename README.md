@@ -47,6 +47,7 @@ In my free time you can find me either working with my hands making pottery, car
 
 ## My Stats :
 <div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caseyfee&theme=rose)](https://git.io/streak-stats)
 
 
