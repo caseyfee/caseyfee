@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+---
+
+### About Me :
+
+Hey - I'm Casey Fee, a Full Stack Developer and Project manager. 
+
+I love to learn and am excited to be falling backwards into this new world of coding. Since 2014, when my first INDEX(MATCH) worked in my Excel Database, I've been diving deeper and deeper into what programming can do.
+
+Behind this passion is a chemical engineer degree and 8 years of enviornmentally and mission focused career moves. 
+
+In my free time you can find me either working with my hands making pottery, carving spoons, moving my body up a mountain, around a dance floor, or completely still in a library book.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -18,18 +30,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
----
-
-### About Me :
-
-Hey - I'm Casey Fee, a Full Stack Developer and Project manager. 
-
-I love to learn and am excited to be falling backwards into this new world of coding. Since 2014, when my first INDEX(MATCH) worked in my Excel Database, I've been diving deeper and deeper into what programming can do.
-
-Behind this passion is a chemical engineer degree and 8 years of enviornmentally and mission focused career moves. 
-
-In my free time you can find me either working with my hands making pottery, carving spoons, moving my body up a mountain, around a dance floor, or completely still in a library book.
 
 ---
 ## Languages and Tools :
