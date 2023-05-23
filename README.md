@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/cfee/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -31,7 +31,7 @@ In my free time you can find me either working with my hands making pottery, car
 ---
 ## Languages and Tools :
 
-<div>
+<div align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -46,11 +46,12 @@ In my free time you can find me either working with my hands making pottery, car
 ---
 
 ## My Stats :
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caseyfee&theme=rose)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caseyfee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 <!--
 **caseyfee/caseyfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
