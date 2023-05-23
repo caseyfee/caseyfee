@@ -2,9 +2,7 @@
 
 ---
 
-### About Me :
-
-Hey - I'm Casey Fee, a Full Stack Developer and Project manager. 
+I'm Casey Fee, a Full Stack Developer and Project Manager. 
 
 I love to learn and am excited to be falling backwards into this new world of coding. Since 2014, when my first INDEX(MATCH) worked in my Excel Database, I've been diving deeper and deeper into what programming can do.
 
