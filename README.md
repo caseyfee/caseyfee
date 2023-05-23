@@ -8,11 +8,14 @@
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/cfee/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://open.spotify.com/user/12124142261)">
+  <a href="[your-spotify](https://open.spotify.com/user/12124142261)">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
+    <a href="[[your-goodreads](https://www.goodreads.com/cfeeeeee)">
+    <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" alt="GoodReads Badge"/>
+  </a>
   <a href="caseyfee3@gmail.com">
-    <img src="	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
