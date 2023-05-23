@@ -5,16 +5,16 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/cfee/">
+  <a href="https://www.linkedin.com/in/cfee/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://open.spotify.com/user/12124142261">
+  <a href="https://open.spotify.com/user/12124142261" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
-    <a href="https://www.goodreads.com/cfeeeeee">
+    <a href="https://www.goodreads.com/cfeeeeee" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" alt="GoodReads Badge"/>
   </a>
-  <a href="mailto:caseyfee3@gmail.com">
+  <a href="mailto:caseyfee3@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
