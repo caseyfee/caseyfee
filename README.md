@@ -52,8 +52,8 @@ In my free time, you can find me either working with my hands making pottery, ca
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caseyfee&theme=rose)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caseyfee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caseyfee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div> -->
 
 <!--
 **caseyfee/caseyfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
