@@ -11,7 +11,7 @@ Behind this passion is a chemical engineer degree and 8 years of enviornmentally
 In my free time you can find me either working with my hands making pottery, carving spoons, moving my body up a mountain, around a dance floor, or completely still in a library book.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/QL8k5zCiNnoUPaABuY" width="100"/>
 </div>
 
 <div id="badges" align="center">
