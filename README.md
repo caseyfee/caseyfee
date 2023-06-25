@@ -50,18 +50,22 @@ In my free time, you can find me either working with my hands making pottery, ca
 
 ---
 
-
-
-<p alight="center>
-  
-![caseyfee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=caseyfee&theme=vue-dark&hide_border=true)
-![caseyfee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caseyfee&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+<p align="center">
+  <a href="https://github.com/Goobber33/github-readme-stats">
+    <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caseyfee&theme=dark" alt="Kyle's GitHub stats" />
+  </a>
+  <a href="https://github.com/Goobber33/github-readme-stats">
+    <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caseyfee&langs_count=5&layout=compact&hide=css,handlebars,html&theme=dark" alt="Top Langs" />
+  </a>
 </p>
 
 <div align="center">
   <img src="https://github.com/caseyfee/caseyfee/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
+
+
+
+
 
 <!--
 **caseyfee/caseyfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
