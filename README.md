@@ -57,4 +57,5 @@ In my free time, you can find me either working with my hands making pottery, ca
   </a>
 </p>
 
+![Snake animation](https://github.com/caseyfee/caseyfee/blob/output/github-contribution-grid-snake.svg)
 
