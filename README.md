@@ -1,4 +1,5 @@
-### Casey Fee - Full Stack Developer | Project Manager | Growth Mindset | Greater Good Caring Human Bean
+### Casey Fee - 
+## Full Stack Developer | Project Manager | Growth Mindset | Greater Good Caring Human Bean
 
 ---
 
