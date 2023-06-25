@@ -48,7 +48,7 @@ In my free time, you can find me either working with my hands making pottery, ca
 
 ---
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/caseyfee/github-readme-stats">
     <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caseyfee&theme=dark" alt="Casey's GitHub stats" />
   </a>
@@ -57,6 +57,6 @@ In my free time, you can find me either working with my hands making pottery, ca
   </a>
   ![Snake animation](https://github.com/caseyfee/caseyfee/blob/output/github-contribution-grid-snake.svg)
 
-</p>
+</div>
 
 
