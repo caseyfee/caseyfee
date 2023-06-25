@@ -50,14 +50,18 @@ In my free time, you can find me either working with my hands making pottery, ca
 
 ---
 
-## My Stats :
-<div align="center">
+
+
+<p alight="center>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caseyfee&theme=rose)](https://git.io/streak-stats)
+![caseyfee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=caseyfee&theme=vue-dark&hide_border=true)
+![caseyfee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caseyfee&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+</p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caseyfee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div> -->
+<div align="center">
+  <img src="https://github.com/caseyfee/caseyfee/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
 
 <!--
 **caseyfee/caseyfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
