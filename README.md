@@ -55,7 +55,8 @@ In my free time, you can find me either working with my hands making pottery, ca
   <a href="https://github.com/caseyfee/github-readme-stats">
     <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caseyfee&langs_count=5&layout=compact&theme=dark" alt="Top Langs" />
   </a>
+  ![Snake animation](https://github.com/caseyfee/caseyfee/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 
-![Snake animation](https://github.com/caseyfee/caseyfee/blob/output/github-contribution-grid-snake.svg)
 
