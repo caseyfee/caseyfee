@@ -2,7 +2,7 @@
 
 ---
 
-I love to learn and am excited to be falling backwards into this new world of coding. Since 2014, when my first INDEX(MATCH) worked in my Excel Database, I've been diving deeper and deeper into what programming can do.
+I love to learn and am excited to be falling backwards into this new world of coding. Since 2014, when my first INDEX(MATCH) worked in my Excel Database, I've been diving deeper and deeper into what programming can do. I've got lots of side projects in my head, so reach out if you want to tag team or have questions, comments, or good recipes!
 
 Behind this passion is a chemical engineer degree and 8 years of enviornmentally and mission focused career moves. 
 
@@ -57,25 +57,5 @@ In my free time, you can find me either working with my hands making pottery, ca
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/caseyfee/caseyfee/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
 
-
-
-
-
-<!--
-**caseyfee/caseyfee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
