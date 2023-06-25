@@ -51,10 +51,10 @@ In my free time, you can find me either working with my hands making pottery, ca
 ---
 
 <p align="center">
-  <a href="https://github.com/Goobber33/github-readme-stats">
-    <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caseyfee&theme=dark" alt="Kyle's GitHub stats" />
+  <a href="https://github.com/caseyfee/github-readme-stats">
+    <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caseyfee&theme=dark" alt="Casey's GitHub stats" />
   </a>
-  <a href="https://github.com/Goobber33/github-readme-stats">
+  <a href="https://github.com/caseyfee/github-readme-stats">
     <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caseyfee&langs_count=5&layout=compact&theme=dark" alt="Top Langs" />
   </a>
 </p>
