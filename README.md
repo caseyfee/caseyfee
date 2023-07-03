@@ -50,7 +50,11 @@ In my free time, you can find me either working with my hands making pottery, ca
 ---
 ## Proud Projects :
 
-<div id="projects" align="wrap">
+<div id="projects" align="center">
+
+  <a href="https://github.com/caseyfee/github-readme-stats">
+    <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caseyfee&theme=dark" alt="Casey's GitHub stats" />
+  </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=SundaeSundayTriathlon)]((https://github.com/caseyfee/SundaeSundayTriathlon))
 
