@@ -48,19 +48,6 @@ In my free time, you can find me either working with my hands making pottery, ca
 </p>
 
 ---
-## Proud Projects :
-
-<div id="projects" align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=SundaeSundayTriathlon)]((https://github.com/caseyfee/SundaeSundayTriathlon))
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=EventDash)]((https://github.com/caseyfee/EventDash))
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=Shifa)]((https://github.com/caseyfee/Shifa))
-
-</div>
-
----
 <div align="center">
   <a href="https://github.com/caseyfee/github-readme-stats">
     <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caseyfee&theme=dark" alt="Casey's GitHub stats" />
@@ -73,4 +60,17 @@ In my free time, you can find me either working with my hands making pottery, ca
 
 <div align="center">
   <img src="https://github.com/Goobber33/Goobber33/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+---
+## Proud Projects :
+
+<div id="projects" align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=SundaeSundayTriathlon)]((https://github.com/caseyfee/SundaeSundayTriathlon))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=EventDash)]((https://github.com/caseyfee/EventDash))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=Shifa)]((https://github.com/caseyfee/Shifa))
+
 </div>
