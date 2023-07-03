@@ -49,6 +49,9 @@ In my free time, you can find me either working with my hands making pottery, ca
 
 ---
 ## Proud Projects :
+
+<div id="projects" align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=SundaeSundayTriathlon)]((https://github.com/caseyfee/SundaeSundayTriathlon))
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=EventDash)]((https://github.com/caseyfee/EventDash))
@@ -56,6 +59,8 @@ In my free time, you can find me either working with my hands making pottery, ca
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=Shifa)]((https://github.com/caseyfee/Shifa))
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caseyfee&theme=dark&repo=Shifa)]((https://github.com/caseyfee/Shifa))
+
+</div>
 
 ---
 <div align="center">
