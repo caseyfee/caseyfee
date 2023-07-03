@@ -48,7 +48,10 @@ In my free time, you can find me either working with my hands making pottery, ca
 </p>
 
 ---
+## Proud Projects :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anryl050&theme=vue&repo=cucumber-or-pickle)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 <div align="center">
   <a href="https://github.com/caseyfee/github-readme-stats">
     <img align="center" height="195em" style="width: 48%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caseyfee&theme=dark" alt="Casey's GitHub stats" />
