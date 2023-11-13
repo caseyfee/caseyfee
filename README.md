@@ -3,7 +3,7 @@
 
 ---
 
-I love to learn and am excited to be falling backwards into this new world of coding. Since 2014, when my first INDEX(MATCH) worked in my Excel Database, I've been diving deeper and deeper into what programming can do. I've got lots of side projects in my head, so reach out if you want to tag team or have questions, comments, or good recipes!
+I love to learn and am excited to be falling backwards into this new world of coding. Since 2014, when my first INDEX(MATCH) worked in my Excel Database, I've been diving deeper and deeper into what programming can do. I've got lots of side projects going and in my head, so reach out if you want to tag team or have questions, comments, or good recipes!
 
 Behind this passion is a chemical engineer degree and 8 years of enviornmentally and mission focused career moves. 
 
